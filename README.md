@@ -1,7 +1,9 @@
 # Instagram-store-generator 
 
-The concept is to generate a store on demand in less than 10 mins 
+## MVP Features 
 
-flowchart 
-
-user registers -> provides their insta/facebook store id -> we pull products from it -> give the user a dashboard -> and then they can host their store within 5-10 mins max
+- User should be able to register a store 
+- don't have to manually upload images or producs from the page, however, functionality should be there to do this as well 
+- they should have templates to select from for their store
+- these templates should be editable manually and with the help of AI
+- the store should be visible at localhost.com/{whatver the user chose}
